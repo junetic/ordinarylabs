@@ -27,8 +27,11 @@
 
 .section1 {
   /*background: #ccc;*/
-  min-height:90rem;
+  height:1100px;
   padding-top:5rem;
+}
+
+footer {
 }
 
 /* Grid

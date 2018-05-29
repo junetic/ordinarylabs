@@ -27,13 +27,13 @@
   <link rel="icon" type="image/png" href="images/favicon.png">
 
 </head>
-<body onload="typeWriter()">
+<body onload="">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="section1">
 	  <div class="container">
-	      <div class="six columns" onclick="typeWriter()">
+	      <div class="six columns">
 	        <h1 id="typeout" ></h1>
 	      </div>
 	  </div>
@@ -46,18 +46,32 @@
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <script>
+
   var i = 0;
   var txt = ["Ordinary people doing extra-ordinary things.","Hello we are Ordinary :)","There's an Ordinary world. Somehow we have to find.", "Maybe just a tiny bit unordinary.", "I love your Ordinary smile :)","Make something out of the Ordinary.", "Today was an Ordinary day.", "I got 99 problems, but being Ordinary ain't one.","안녕하세요. 오디너리 랩스 입니다^^","나를 믿고 있는 너에겐 정말 오디너리한 마음뿐이야. 이번 한번만 용서해~","It was all a dream, I used to read Ordinary! magazine. Salt-n-Pepa and Heavy D up in the limousine.","Life as a baller: alcohol and Ordinary calls. We used to do 'em as adolescents, do you recall?"];
   var speed = 80;
-  randomNum = Math.floor((Math.random() * txt.length))
-  console.log (randomNum)
+
+  function generatenum(){
+    randomNum = Math.floor((Math.random() * txt.length));
+    console.log (randomNum);
+    i = 0
+    document.getElementById("typeout").innerHTML=""
+    typeWriter(randomNum);
+  }
+  generatenum();
   function typeWriter() {
+    console.log ("typing")
     if (i < txt[randomNum].length) {
       document.getElementById("typeout").innerHTML += txt[randomNum].charAt(i);
       i++;
       setTimeout(typeWriter, speed);
+    } 
+    else { 
+      setTimeout(generatenum,5000);
+
     }
   }
+
 </script>
 </body>
 </html>
