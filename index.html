@@ -27,14 +27,14 @@
   <link rel="icon" type="image/png" href="images/favicon.png">
 
 </head>
-<body>
+<body onload="typeWriter()">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="section1">
 	  <div class="container">
-	      <div class="five columns">
-	        <h1>Hello we are Ordinary.</h1>
+	      <div class="six columns" onclick="typeWriter()">
+	        <h1 id="typeout" ></h1>
 	      </div>
 	  </div>
   </div>
@@ -45,5 +45,19 @@
 </footer>
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<script>
+  var i = 0;
+  var txt = ["Ordinary people doing extra-ordinary things.","Hello we are Ordinary :)","There's an Ordinary world. Somehow we have to find.", "Maybe just a tiny bit unordinary.", "Nothing really out of the Ordinary.","Make something Ordinary.", "Today was an Ordinary day.", "I got 99 problems, but being Ordinary ain't one.","안녕하세요. 오디너리 랩스 입니다^^","나를 믿고 있는 너에겐. 정말 오디너리한 마음뿐이야. 이번 한번만 용서해."];
+  var speed = 80;
+  randomNum = Math.floor((Math.random() * 10))
+  console.log (randomNum)
+  function typeWriter() {
+    if (i < txt[randomNum].length) {
+      document.getElementById("typeout").innerHTML += txt[randomNum].charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+</script>
 </body>
 </html>
