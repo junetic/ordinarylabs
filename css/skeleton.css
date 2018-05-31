@@ -26,9 +26,10 @@
 */
 
 .section1 {
-  /*background: #ccc;*/
-  height:1100px;
+  height: :100%;
+ position:absolute;
   padding-top:6rem;
+
 }
 
 @media (max-width: 550px) {
@@ -40,9 +41,7 @@
 }
 footer {
   position: fixed;
-  bottom:40px;
-/*  left:40px;
-  height:40px;*/
+  bottom:30px;
 
 }
 #videobackground {
@@ -178,7 +177,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
-  h1 { font-size: 9rem; line-height: .98; }
+  h1 { font-size: 8.5rem; line-height: 1.02; }
   h2 { font-size: 4.2rem; }
   h3 { font-size: 3.6rem; }
   h4 { font-size: 3.0rem; }
