@@ -1,0 +1,334 @@
+Terms of Service
+
+This agreement is being translated for multilingual service offering language will prevail, Korean If there is a discrepancy between the translation and the original content (Korean).Thank you for using the services of the Corporation Ordinary Labs, Inc.! These Terms of Service (the "Terms") apply to your use and access to the services, client software and web sites ("Services") that we provide. Privacy policy of the company has been the collection and use of your information technology by our company, using restriction policies are described in the user's risk of the use of this service. By using this Service, you agree to be bound by these Terms and Conditions and confirm that you have read our Privacy Policy and Usage Restriction Policy. If you belong to an organization and use the Service, you are deemed to accept these terms on behalf of that organization.
+
+1.Purpose
+This agreement Ordinary Labs, Inc. (hereinafter Use of the services provided by the "Company") "Service", the purpose of which is to determine the rights and obligations of the Company and the users and all necessary matters.
+
+2.Definition of Terms
+Terms used in these terms are as follows.
+2,1) "User" means a customer (including non-member customers) who has agreed to these Terms and Conditions and is entitled to use all the services provided by the Company.
+2.2) "Service" means all services provided by the Company.
+2.3) The term "member" is a member registered as a party, We will continue to receive company information, A person who can continue to use the service. Some of the members who are broadcasting are supported by the company and use the service.
+2.4) without a membership it is a "non-member" a person who uses the services provided by the company.
+2.5) "Application" means any program downloaded or installed through the terminal to use the services provided by the company.
+2.6) "app store (open market) operators" refers to any carrier that provides the open market, such as e-commerce providers to offer to install our services and payment (including payment providers to offer my services). (Yes. Google Play App Store, Apple App Store, Settlement Bank, T store, Olle Market, U + App Market, etc.)
+2.7) "Platform Operator" means any entity that provides services in association with the Company in notifying or using our services, and all related services. (Eg.: the NHN Corporation (Naver), Facebook Inc., (Facebook) )
+2.8) "User Account" means the user's name, password, Numbers or combinations of special characters are used by the Company to provide unique identification numbers (special numbers or letters) without being explicitly provided by the platform provider. (Eg TID, UID, App Center ID Etc)
+2.9) "Content" means all contents digitally made for the user to use through the terminal in connection with the company's services.
+2.10) "paid content" is, In order to enjoy certain effects or benefits in the use of the Services by the User, Means any online content purchased through the "App Store (Open Market)". (Snacks (Snack Point), etc.)
+2.11) The term "free content" is, User means any online content that can be obtained while using the first term between the user fails to purchase through paid content on No. 9 points, or gifts or services within the service. (Feeds (Feed Point), etc.)
+2.12), Snacks (Snack Point) 'Iranian members use content offered on the Internet services company, Digital item purchase, Means an Internet payment means that can pay for the use of paid services such as sponsorship, From the date of purchase in accordance with the statute of limitations boss It will expire after 5 years.
+2.13) 'Charge' means the amount paid or paid in accordance with the method specified by the Company He says that by giving the Snacks (Snack Point) corresponding to the called "Charge Amount") credited to the member.
+2.14), but try to use the 'Use Cancel' is a paid service members who pay a fee-for-service Snacks (Snack Point) When the wrong not provide normal services due to the intention or negligence of the company refers to that refund Snacks (Snack Point).
+2.15) refers to 'exchange' is returning members receive the snacks (Snacks will occur to accept gifts) in cash.
+2.16) "withdrawal" means an intention to terminate the contract after the service opening
+The definitions of terms used in these Terms and Conditions shall be as provided in the relevant laws and regulations except as provided in Paragraph 1 above. What is not set out in the relevant laws and ordinances is based on common practices.
+
+3. Providing company information
+The company publishes the following items on the initial screen of the service or on the company website so that users can easily find out. but, The privacy policy and terms of use can be made available to the user through the connection screen.
+3.1 Name of the recipient and representative
+3.2 Location Address (Including the address where the user's complaint can be handled) And e-mail address
+3.3 Company Registration Number, Contact Us
+3.4 Privacy Statement
+3.5. Terms of Service
+
+4. Effect and Change of Terms
+4.1. These Terms specify the terms of use within the Company's web site or application for use of the Service, At the same time as the user to install and run the application it will be the effective date. If you run the application before the amendment and enforcement date without the consent process, you are also deemed to have accepted these terms, If you do not agree, you may withdraw your consent with your application sign-out and deletion.
+4.2. The company subscribed to the terms of the contents jeonghayeojyeo Before writing and agree to the terms so that the user can easily see the contents of the agreement to withdraw, Reimbursement of gwaohnapgeum, severance, Termination, We provide important information such as the company's indemnification and damages for members, in bold text or other separate connection screens or pop-up screens so that members can easily understand them.
+4.3. In order to amend the relevant laws and regulations, and to improve the rights and obligations of users, the Company is required to comply with the "Consumer Protection Act for Electronic Commerce etc." "Regulation on the Regulations of the Terms" "Act on Information Network Promotion and Information Protection, etc." You may change these Terms and Conditions to the extent that they do not violate the relevant laws and regulations such as the "Contents Industry Promotion Act" The modified terms are effective date and changes, The reason for the change, and so on. 7 days prior (However, In case of amendment of the terms unfavorable to the user, 30 days) from the date of its application after will come into force from the date of notice to the user through the application andoperating a website or company until a certain period of time and apply.
+4.4 You have the right not to agree to the changed terms, If you do not agree to the changed terms and conditions, you may stop using the Services with application log out and delete. but, When users change the terms of notice will count as accepted unless a separate intention. From the date of application of the modified Terms Within 15 days (by the effective date) Explicitly for the company If you do not give a "refusal" notice or if you continue to use the Service after the effective date of the changed Terms and Conditions, you agree to the changed Terms.
+
+5. Other than the terms and conditions
+For the matters not specified in these Terms and the interpretation of these Terms and Conditions, the "Consumer Protection Act on Electronic Commerce etc." "Act on the regulation of the terms", "Act on the Information Network Promotion and Information Security", The contents industry promotion law and other related laws and practices.
+
+6. Establishment of contract of use
+6.1. The contract of use You agree to the terms of use and terms of use application installation, It is established with the consent of the company to use the application.
+6.2. The user must provide his or her real name and actual information at the time of application. If you misrepresent your real name or identification information or steal the name of another person, you can not assert the rights of the member under these Terms, The Company may cancel or terminate the use contract without refund.
+6.3. The user The same person generates multiple accounts, or sign up for an account to generate a large number of e-mail to more than use purpose, by the same device, or using the login and logout on multiple accounts with the same devices and events (attendance provided by the company Log in continuous attendance, creating a point payment policies, etc.) depending on the specific condition or type an e-mail with false or Using false identification information to a base or an irregular or, in the case of theft of others who are not able to claim the rights of the members of the agreement, The Company may block or delete your account without notice for your account.
+6.4. If the youth (the "Elementary and Secondary Education Act" includes the students enrolled in school under the provisions of Article 2 as less than 18 years of age) or self hanjeongchisan to use application, you must obtain the consent of the legal guardian.
+6.5. The Company may refuse to accept any application for use under any of the following subparagraphs:
+6.5.1) If you apply for use in violation of Article 7
+6.5.2) If you do not pay the fee or can not check it by mistake
+6.5.3) When a user who has a record of use within 3 months applies for use
+6.5.4) Third party credit card, Wired / wireless telephone, If you pay for services using unauthorized use or stealing bank accounts
+6.5.5) In countries other than the Republic of Korea where the Company has not decided to provide services, the Company may restrict the provision of services in connection with contracts entered into with overseas service providers or provision of services to members accessing certain countries. If you need to
+6.6 Application for use for the purpose of illegal act prohibited by 「Act on Promotion of Information Network Usage and Information Protection, etc.」 and other related laws
+6.7 In addition, if it is deemed inappropriate for acceptance as grounds under items 1 to 7
+
+7. User Account (ID) and password
+7.1. The Company reserves the right to protect users' information, For convenience of service use guide, Give your account a combination of numbers or special characters. but, The Company shall not If your ID is antisocial, or if you are afraid of misleading or misleading your company, You can refuse or restrict the use of the ID.
+7.2. Unique ID (Username) is provided in any of the original text and number combination and can be changed in the Settings app within the service menu. name, You are responsible for telephone numbers, social security numbers, email users for damages caused by entering the ID that concerns such as privacy.
+7.3. Since the company's services provide fairness-related functions, such as providing ranking services through point transfers, Member unique ID must be used one per member. If multiple accounts are created and used for legal purposes, multiple accounts created without prior notice will be suspended.
+7.4. The company performs various user management tasks such as availability of the user's service through account information.
+7.5. The user must manage their account information with all the duty of care as a good manager. The user is liable for damages caused by neglecting the user's account information or for accepting the use by a third party.
+7.6. You may freely set a password within the scope of the Company's criteria, If you want, you can change it at any time.
+7.7. You are responsible for the management of your password. but, The Company may recommend users to change their password regularly or irregularly for security reasons.
+
+8. Notice to customers
+8.1 If the Company notifies its customers (only for members), unless otherwise specified in these Terms and Conditions, Push notifications, Post, upload photo post, You can also pop up a notification within the app, comments, etc.
+8.2. In the case of notice to all users More than 7 days By submitting to the notice of "Company", you can substitute the notice in Paragraph 1 above.
+
+9. Provision and change of user information
+9.1. If you are required to provide information to the Company under this Agreement, you must provide true information, Disadvantages resulting from the provision of false information are not protected.
+9.2. The user can use his / her personal information (picture, Name, etc.) can be viewed and modified.
+9.3. If you change the items listed at the time you apply for membership, you must make changes online or otherwise notify the company of the changes.
+9.4. The Company shall not be held responsible for any disadvantage caused by not informing the Company of the changes in Paragraph 3.
+
+10. Protection and management of personal information
+10.1. The Company strives to protect the personal information of users including account information as stipulated by related laws and regulations. The protection and use of your personal information will be governed by the relevant laws and regulations and the privacy policy that the company separately notifies.
+10.2. Except for the individual services provided as part of the service, the company's privacy policy does not apply to services provided by third parties that are simply linked to the website or service-specific applications.
+10.3. The Company shall not be held responsible for any information, including the account information of the user, which is exposed due to the reason of the user's fault.
+
+11. Obligations of the company
+11.1. The Company shall comply with relevant laws and regulations, We will faithfully perform the exercise of the rights set forth in these Terms and the fulfillment of our obligations.
+11.2. If the opinions or complaints from the users are objectively recognized as fair, the Company shall promptly handle them within a reasonable period of time. but, If the processing takes a long time, the user should be notified or notified on the service homepage.
+11.3. The Company shall provide security system for the protection of all personal information including credit information and disclose and comply with the personal information policy so that the user can use the service safely. The company ensures that the terms and conditions and privacy, and is not a Member's personal information except as set out in the Policy provides the public or to a third party.
+11.4. The company continued and stable when in order to provide a service failure vitality of the plants was to improve the service or data loss disasters such as this, Emergency, We will do our best to fix or repair it without delay as long as there are unavoidable reasons such as technical defects and obstacles that are difficult to solve with current technology.
+11.5. The company has entered into a contract of use, We will endeavor to provide convenience to users in terms of procedures and content related to contracts with users, such as changing and terminating contracts.
+
+12 Duty of user
+12.1. Users are used, such as contacts, email, If the contract is changed, you must immediately notify or maintain membership information up-to-date information on this company. Or inform them about the damages or penalties incurred by not modifying the most recent information available, customers can not plead or claim the right to the company.
+12.2. The user shall not use the service provided by the company for purposes other than the purpose of use of the service or do any of the following acts.
+12.2.1) Contact us, Application for currency exchange, Paid content and recover the refund request, If you use information other than your real name or other person's information when providing personal information to the company due to winning events, Falsifying facts
+12.2.2) The act of pretending to be someone else or explicit relationships with others as false, the same person generates multiple accounts using a legal act of the piece, the other users ID And password stealing, Use it incorrectly, Other people's credit cards, Wired / wireless telephone, The act of stealing the bank accounts to buy paid content
+12.2.3) The act of trading with others, such as paid content through services that are not provided by the company, or sale
+12.2.4) Without the prior consent of the Company, the information obtained through the use of the Company's services and provided applications, circulation, Promoted or used commercially, Or exploit known or unknown bugs;
+12.2.5) Using the services of the Company and the applications provided to create property interests for yourself or others;
+12.2.6) To defame or damage another's reputation
+12.2.7) The company's intellectual property rights, Intellectual property rights of third parties, And other personal information, such as the right to privacy and other rights without the company's approval, Save, spread, Posting
+12.2.8) By taking advantage of a third party's profits or abusing the services provided by the Company, Damaging third parties
+12.2.9) Obscene, Exchange flash information, Posting, linking (linking) a sexually explicit site, or showing unauthorized ads and promotions
+12.2.10) Inducing or participating in gambling activities such as betting on wealth and gambling
+12.2.11) Horses or sounds that cause shame, disgust, or fear, Send a text, an image or an image to the other party, arrival, Dissemination
+12.2.12) Information (computer program) whose transmission or publication is prohibited by relevant laws and regulations Or computer software, hardware, Hindering normal operation of telecommunication equipment, Designed to destroy software viruses, Other computer code, file, The program contains materials that transmit, posting, spread, Use
+12.2.13) You may make changes to the application without obtaining any special rights from the company, add or insert other programs into the application, Reverse design, Leakage or alteration of source code or application data, Impersonating a company by building a separate server or arbitrarily changing or stealing a portion of a website;
+12.2.14) With the same name as a certain celebrity or be mistaken for those of celebrities, most of the staff or impersonating a company or operator, Or posting or posting an e-mail by stealing someone's name
+12.2.15) Without the company's consent, sales, Advertising, Political activities, Adult and The act of using the service for the purpose of abuse, illegal campaigning
+12.2.16) Other violations of public order and morals, illegal, Unlawful conduct and acts contrary to relevant laws and regulations
+12.3. The user is obliged to check and observe notices on the homepage of the company and the amendments of the Terms of Use from time to time, and shall not engage in acts that interfere with the work of other companies.
+12.4. You are responsible for the management of your account, This should not be used by a third party. The company is "Open Market Mobile Content Payment Guidelines" And recommendations, If you comply with all open market vendors' payment policies, The User shall be entitled to refund to the Company for the use and payment of the third party, You can not claim compensation.
+12.5. The Company shall, The specific type of conduct falling under any of the following subparagraphs of paragraph 3 and any of the following subparagraphs may be specified in the operational policy, Members are obliged to comply.
+12.5.1) Members of the ID, name, Email, restrictions photos
+12.5.2) Limits on chat content and methods
+12.5.3) Restrictions on the use of bulletin boards
+12.5.4) Restrictions on posting to register
+12.5.5) Other matters that the Company deems necessary for the operation of the service within the scope of not infringing the essential rights to use the service of other members
+12.6. The user is responsible for the behavior of your users and data, you must comply with our policy, use restrictions. The content of this service may be protected by the intellectual property rights of others. Do not copy, upload, download, or share content unless you have the appropriate rights.
+12.7. We may review the content and user behavior to make sure they comply with our terms and use restrictions policies. However, we do not have an obligation to do so. We are not responsible for content that people publish or share through the Service.
+12.8. ensure that services are not secure passwords are exposed to when using, and other people and the state does not have access to services, please keep your account information up to date.
+12.9. You may not post publicly through violence, nudity, partial nudity, discriminatory, illegal, infringement, unfair, pornographic or sexually suggestive pictures or other post service.
+
+13. Service delivery time and stop
+13.1. The Company will start the service from the time of acceptance of the user's membership. only, For some services, The service can be provided from the designated date according to the company's needs.
+13.2. The Company is open 24 hours a day, 7 days a week, 1 day We offer 24 hour service. but, System regular check, Server expansion and replacement, Adding new content, Various bug patches, For operational needs, such as replacing a new service, You may suspend the service for a period of time, In such cases, the company will announce its contents and time within the homepage or application. but, If there is an unavoidable reason that the Company can not notify in advance, it can notify after the fact.
+
+14. Service contents and change
+14.1 You agree that the Services provided by the Company shall be governed by these Terms, It is available according to the operating policy and the rules set by the company.
+14.2. For the services the Company provides to users, change, maintain, It has comprehensive authority on remuneration.
+14.3. The company has a new service content, If necessary, such as various bug patches, All or any part of the services provided, Add, Abolition, etc. can be changed. The content of the service to be changed and the date of the service are posted on the website of the company to be replaced with notice to the member.
+14.4. If the Company needs to suspend all services due to the planning or operation of the service or the urgent situation of the company, the Company may notify the homepage and discontinue the service. You can not request a refund for paid content that has not expired at the end of the service.
+14.5. The Company may limit or suspend all or any part of the Services if any of the following are true:
+14.5.1) exhibition, Affairs, If there is a force majeure such as a natural disaster or a national emergency
+14.5.2) blackout, If you interfere with the normal use of services such as failure or congestion of utilization of various plants
+14.5.3) In case of inevitable construction due to maintenance of service equipment
+14.5.4) If you can not provide services due to other company's circumstances
+14.6. In case of discontinuance of service pursuant to Paragraph 3, notice shall be posted on the homepage or application operated by the Company. but, This is not the case if prior notice can not be provided due to interruption of service due to reasons beyond the Company's control.
+14.7. The Company shall not be liable for any problems arising from changes or discontinuance of services, except in cases where the service is changed or suspended due to intentional or gross negligence of the Company.
+
+15. Provision of information and publication
+15.1 The company will introduce the service to the user, Use the information obtained through the platform provider and the app store operator for the purpose of improving the service, or may request additional information about the user of the user, In response to this request, you may accept or refuse additional information from the platform service provider or the App Store service provider.
+15.2. The Company may place advertisements to maintain this service, The user agrees to the advertisement which is exposed when using the service.
+15.3. The company offers, Third, The Company shall not be liable for any losses or damages incurred as a result of user participation, communication or transaction in the advertisement of Paragraph 2.
+15.4. When the Company provides the advertisement of Paragraph 2 by utilizing the personal information of the user collected legally SMS (LMS), Push to smartphone notice), Mail address, and so on, If you do not want it, you can opt out at any time.
+15.5. Regarding the above information providing and advertising, a platform operator providing information to the company, In accordance with the terms and conditions of the Company and the applicable laws and regulations.
+
+16. User Data and User Authority
+16.1. When you use data services (the "User ID"), such as files, content, e-mail messages, contacts, Provide to the company. These User Materials are your property. These Terms and Conditions do not grant us any authority over the User Materials, other than the limited rights required to provide the Services.
+16.2. To handle the task requested by the user, such as user data hosting, backup and share your company requires the permission of the user. We also provide users with photo thumbnail images, document previews, email organizing, convenient sorting, editing, sharing, searching and more with our services. To use these and other features, our systems must access, store, and retrieve your data. You must authorize us to handle these tasks, including our affiliates and trusted partners.
+
+16.3. You can also share your data with others through service, please be cautious when sharing.
+
+17. Software
+17.1. You can download the client software ( "Software") to which users are automatically updated when you use some of the services. As long as you comply with this agreement, we will use the software and can not be used in a limited transferable, non-exclusive access to fully service, revocable license granted to the user.
+17.2. The components of the software available under an open source license, the Company shall allow users to take advantage of licenses, the provisions of the applicable license can be explicit priority than some of the provisions of this Agreement.
+17.3. I agree that, except as the following restrictions prohibited by the laws and the user compiles a service station or analysis or di handageona attempt such acts will not cooperate in such practices.
+17.3.1) Company data
+The company's services are protected by copyright, trademark law and the other laws of the United States and other countries. This agreement does not grant you the service, or any rights or ownership interests for others' content and trademarks of the company (Service, Peeper), logo and other branding on the service. We welcome your feedback. However, please be aware that we can use the comments or suggestions without any obligation to you.
+17.3.2) Copyright
+The company line respected these rights to users while respecting others' intellectual property Request. And comply with the law, if a notice of alleged copyright infringement in accordance with our copyright policy, corresponding with us. It will delete the content you received the alleged infringement or blocks, and reserves the right to terminate the accounts of users who repeatedly infringe.
+
+18. Paid content purchases, duration and availability
+18.1. Each user platform according to the type of device you're using a service provider, App Store, according to the payment policies of the operating business of paid content is purchased, and may vary due to differences in the payment of their settlement policy. Also of paid content purchases App Store is moved in conjunction with the carrier or platform operators and carriers app store is charged in accordance with the methods and policies to establish a business, pay scheme is also subject to the policies of the company.
+18.2. Within the service paid content purchased by the user are only available to download or install the terminal to the service application.
+18.3. A user purchases a paid content service life is basically 5 years and after this period has elapsed, the user corresponding to the paid content , you lose the license. only, The period specified separately for paid content, if you follow the period stated at the time of purchase. Users other than how the company has appointed a separate notice Paid content may only be available in the user's own account, the transfer, to a third party rental, you can not trade.
+
+19. In-App Purchase (Payment)
+19.1. Applications for In-App Purchase items are included in the In-App billing.
+19.2. User password settings on the device capability, by using a password setting function provided by the open markets of third parties shall prevent the In-App Payments, the company recommends the KCC to this and "Open Market Mobile Content Billing Guidelines "this certification process, including providing the open market, depending on the applied modules, for in-App billing to apply the library, including the application.
+19.3. Users who do not use a third party such as a password set on the device and open market functions caused by negligence of the user password is exposed to above does not bear any responsibility for the company's In-App Billing.
+19.4. If the user is subscribed to youth plan of the carrier, in the terminal when the In-App billing information that is considered to have the consent of the legal guardian.
+19.5. The user has the responsibility to faithfully paid In-App Payment.
+19.6. Company policy and payment providers (carriers, app store policies, operators, etc.) for each payment method, according to the policy, you can limit the payments granted or to be adjusted.
+
+20. Monthly Subscription Payment
+20.1 Paid accounts
+20.1.1) Billing Billing : You released a limited period of time or to upgrade some of the features of the service , and to increase the capacity, you can add paid features into account (the account "Paid Account" in transition).
+20.1.2) Rates: Rates are automatic payments whenever you regular updates until you cancel from the day you have switched to a paid account. All taxes are the responsibility of the user. It will charge tax if the corresponding obligations.
+
+20.2 Non-refundable
+20.2.1) refund : The user You can cancel your subscription at any time to a paid account, but a fee is not required by law it will not be refunded. (If you have any questions regarding your refund fee bill , please poomyapp@gmail.com)
+20.2.2) Downgrade : Paid account will remain in effect until it is canceled or terminated in accordance with these terms and conditions. If the user does not pay the fee paid accounts in a timely manner, the Company reserves the right to suspend the account or reduce the capacity of the free accounts capacities.
+20.3 Change
+20.3.1) It will notify you of these details to the email address registered to your account in advance when change can change the service fee.
+20.4. Email address
+20.4.1) Users are using the email address provided by the company as a service account when you sign up, you have a free account fee and switch to an account or service from the company until you connect your account to a personal email address service can be blocked using.
+
+21. Cancellation and refunds, etc.
+21.1. Users who purchase the paid content cases Contract date or paid content from the availability can be a cancellation (purchase canceled) at no extra charge within 7 days. only, Gifts and events received from the company or a third party free paid content , cancellation request at the time to be considered with hayeotgeona already paid content , some with such as this attribute is equivalent to the paid content on the Consumer Protection "in electronic commerce respect It may limit cancellation (purchase canceled) in accordance with the law. "Article 17, paragraph 2. In this case, the user company that paid content will to take action in accordance with the provisions of applicable law, including the purchase notice.
+21.2. If you do not use paid content purchases due to the fault of the company, equal pay content service free of charge or a full refund, regardless of the date of the contract (purchase) the purchase price.
+21.3. Refunds will be conducted in accordance with the respective app store operators refund operational policy of which the user is used, the more refund procedure is subject to the company's operating policy. The service in accordance with the refund price paid content will reflect the deduction by the amount that corresponds to withdraw.
+21.4. Paid content through free content if you switch, if, due in whole or in part using the basic units that can be purchased within the services compromised , Inbox , and so also a gift of paid content via an agreed process, such as acceptance from the screen associated with the transmission and reception If such users are likely to use the doctor said. The corresponding details are included when purchasing through a person differently and customer intent.
+21.5. The user is acquired as compensation rather than through the payment of cash used to be real normal purchases are recorded or services, a company paid through events such as internal or external partnership events paid content is not refundable.
+21.6. If you request a cancellation and refund, etc., Ltd. Customer Center, and then the company has gone through consent process for a separate privacy in the specified charging companies will be held by the confirmed purchase of the company, the process of platform operators or app store operators the rough procedure to confirm your purchase will be through the following process. The company can confirm the facts to contact the user through the information received from the user to determine the legitimate reasons for withdrawal of the user from the process, may require additional evidence. (Eg personal information, registered in the platform operators to purchase or payment of App Store history, documents that confirm that the purchase by others as different from the customer's intent (to prove family relations) , etc.)
+21.7. The following cases: In-App and cancellation of items is limited company cancellation is limited for In-App items before the In-App Billing displays the cancellation is limited, and that fact out of the package or that of goods users are exercising their rights and how to cancellation of such a clear and timely notice, or where you can easily provide a trial product unobstructed should measures not to. If the company fails to include these measures despite the cancellation of limitations grounds, members can withdraw the offer.
+21.7.1) Immediately after the purchase is initiated or applied immediately to the application if the In-App items
+21.7.2) In the normal course of using the application obtained without In-App Billing For In-App items
+21.7.3) Additional benefits provided in In-App item if that additional benefits are used
+21.7.4) Sold as a bundle-type case part of the In-App items used
+21.7.5) If you can see the opening act of the use or release when the utility is opening an item that is determined, In-App if the goods item such as used or used part, if it is already difficult to sell over time, again, the packaging of reproducible goods If undermined the
+21.8. Sold in the application of In-App item minors or avoid adult guardian without the consent of the legal representative In-App If you pay, child or legal representative may cancel your In-App Billing. only, Minors If the property has a range of In-App Payments received permission from the disposal of the legal representative or the cancellation is limited when a minor is believed to seongnyeonja using such principalities. Whether In-App items buyer minors is determined based on the Name on the payment methods, such as In-App Payments is advanced terminal or credit card. If you request cancellation of a minor settlement in accordance with the needs of the company must submit a document proving the child and the legal representative.
+21.9. Application of In-App payments is subject to the payment method provided by open market operators. Therefore , you must request a refund to the principle of an open market operators if the mistake occurred Friday in In-App Billing process. only, Policy of open market operators , if possible according to the system the company may ask the implementation of the refund procedures required to open market operators.
+21.10. Made to present through the features purchased with respect to In-App Billing to, except for defects in the In-App items in principle payments cancel and refund the cash and refund due to defects in In-App items are sent gift available only to the user.
+
+22. Effects such cancellation
+22.1. If the user is a cancellation in accordance with Article 18, paragraph 1, the body of the company from the date of recovery or delete the paid services without delay and recover deleted or paid services to refund the payment and the payment within three business days.
+22.2. Paragraph (1) if the company is a delay when the refund to users for that delay period will be paid the "Law on Consumer Protection in Electronic Commerce" and delayed calculated by multiplying the rate specified in the Enforcement Decree of interest.
+22.3. The company in as the reimbursement of the above charges users a credit card or else "Law on Consumer Protection in Electronic Commerce in the Decree" of when you make payments to the payment method set by causing one operator offers the art form of payment without delay payment ask them to stop or cancel the claim. However, when the company received payments from the already cash payment refund them to the supplier and contractor billing will notify consumers.
+22.4. Companies can already be charged to the amount of the user corresponding to any expense to the supply of some use, or in some cases the consumer has the goods, including some use or benefit or goods that the user obtained by some of the consumption of such goods.
+22.5. The user is Article 17 in the case of a cancellation according to claim 1 body costs for the return of goods will be borne by the user, and can not charge the company penalties or damages for cancellation of reason, to the user.
+
+23. Termination and service stops, etc.
+23.1. User at any time if you do not want to use the service, you can terminate the contract through the membership withdrawal. If you have a membership to the withdrawal Snacks (Snack Point) will not be refunded for.
+23.2. Withdrawal of the user after the withdrawal application and withdrawal and the information is erased after two weeks, if the content is user created during withdrawal can not be deleted.
+23.3. After the user has to leave the same account (SNS, E-Mail, and then leave when reactivated with phone numbers, etc.) 30 can be reactivated after day.
+23.4. The company services the mobile user if a violation of the limits hinder the company's services, set out in Article 12 can restrict the services terminated the contract without notice or appointed or period.
+23.5. If your company is revoked or suspended the contract in accordance with the provisions of paragraph 3 of the user must delete the downloaded application.
+23.6. If the company wants to terminate the contract by reason outside the grounds set out in Article 12 after prior notification to the user may terminate the contract. At this time the company has written to the user, and notifies by e-mail or in similar ways.
+23.7. If the use of a limited company is a legitimate company not liable for damages suffered by the user due to the use restriction does.
+23.8. Users can at any time stop the service. Also Service reserves the right to suspend or discontinue the Service at any time at our discretion without notice. For example, if a user is present or not follow the terms of the Company to legal liability the service in a way that imposes mobile phone use if it interferes with the use of a disturbance or someone SERVICES The Company may suspend or terminate your use of the Service .
+9. Except for a paid account, and once lived reserves the right to terminate your account and delete if you do not have access to the service for 12 consecutive months. Of course, this case once lived to the email address registered to your account, notify the user in advance.
+10 times to buy one committed to providing a quality service, you may experience certain situations can not be guaranteed in our company. To the maximum extent permitted by law, Service , its affiliates, suppliers and distributors is not guaranteed for this service, explicitly or implicitly.
+11. The Service is provided "as is". In addition, the Company disclaims any WARRANTY OF FITNESS, AND NON-INFRINGEMENT OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. In some areas it might not apply to you do not allow the disclaimer set out in this paragraph.
+
+24. Provisional measure blackout
+24.1. The Company may suspend your account until the following investigation of the problem for each completed call.
+24.1.1) If the account has been hacked or theft was reported per receipt is legitimate
+24.1.2) Illegal program user, if reasonable doubt as to the workplace, such as illegal agents
+24.1.3) If the only reason pursuant to the above subparagraphs necessary provisional measures, account
+24.2. When the first protest the company will extend the period of service as a member of proportion to the service period after the investigation is complete halt to its members to use a certain amount of money paid period. but, If found to be illegal actors according to claim 1, it shall not apply.
+
+25. Fees paid methods, types, etc.
+25.1. Customers have to use a paid service application against the company, and the company The paid services agreement between the Company will be established between the use of the customer for approval by.
+25.2. Paid service fees, the prepayment principle and (some post-paid offerings exceptions) a certain amount, and then the company provides deposit Customers line via the payment method for purchases, billed as a deduction based on usage, pay The.
+25.3. The company offers paid services such as subparagraphs.
+25.3.1) Snacks (Snacks ) : On the Internet to purchase in order to use a paid service to service in the company 's cash equivalent refers to the payment means, the boss statute of limitations from the date of purchase in accordance expire upon lapse of five years.
+25.3.2) Additional services: pay the pricing in the company, the products available for that item, etc.
+25.4 The company can surely ask for personal information necessary additional members for the implementation of the settlement, and members are required to provide accurate personal information that the company needs. Ltd. is a member of the company for damage caused to the Member due to the personal information provided false or inaccurate This negligence ? high is not liable to compensate the loss of members is not.
+25.5. kinds of paid service fees will follow the provisions in this agreement and their respective services.
+25.6. Customers are minor (but less than 20 years) , when hanjeongchisan or design before you pay for a paid service, the Civil Code Article 5 in accordance with paragraph 1 must receive the consent of the legal representatives (parents, etc.). If the company has not received the consent of the legal guardian in accordance with the prescribed procedures are not available on a fee-for-service. only, If the two principalities of minors used for the consent of the legal representatives (parents, etc.), the company is not liable for that information.
+
+26. Refunds procedure
+26.1. Customers use a prepaid like charges if there is any objection from there using a paid service days within a month, you can appeal.
+26.2. The term "company" after the preceding receipt of the complaint investigated the validity within 10 days and notify the results to the use of the customer.
+26.3. If you do not to unavoidable reasons, be notified of the appeal results in the preceding paragraph, the period specified by the handler was re-designated as the reasons used to notify customers.
+
+27. Refund
+27.1. "company" is used in the same way as the payment of the price of gold if this mistake has occurred, such as fees mistake of gold will be refunded in full.
+27.2. For a full refund, including the case of one member, as a rule, refund to the payment method used to make use of this service it is impossible or partial refund due to the termination of the service, moderate refunds in separate ways the company is determined.
+27.3. Paid service after the payment provided by the company when the service is used for service use only one meeting or after the purchase is completed using the service are not refundable.
+27.4. Notwithstanding paragraph 3, and if each of the following, we will refund the full payment by the member.
+27.4.1) If, despite meeting the minimum technical specifications presented by the flood, or the company and did not use the service to reasons attributable to the Company
+27.4.2) If the member service is not available Buy
+27.4.3) Services provided are display ads ? phase or as if there is a significant difference
+27.4.4) Normal service a defect of the services provided, if using a non-significant
+27.4.5) If you are a member terminate this Agreement by the company to limit the use of the service member or unilateral violation of the provisions of Article 13. The Company does not make any refund for the member.
+27.5. refund according to the provisions from the date when the refund obligations incurred by the company within three business days, and you can deduct the expenses incurred to return depending on the payment deposit fees. If the refund is delayed a delay interest rate per annum to 11%. only, For the refund delays due to reasons attributable to the Member if the Member cooperation necessary for the refund is not paid delay interest.
+27.6. If the cost of the refunds is due to reasons attributable to the use of the customer refund, the customer used, the case of a refund due to reasons attributable to the Company, the Company will be borne by each.
+27.7. "Company", etc. This first charges to be returned, if the customer used to be returned to the fees unpaid fees cover reimbursement and can be returned.
+27.8. For the use restriction according to claim 15, paragraph 2 does not return the associated fees.
+27.9. If you buy for the last seven days history it will not be refunded.
+
+28. Exchange requirements and to verify
+28.1. Received gifts Snacks (Snack Point) in order to receive a payment in cash must be passed through the exchange authorization process.
+28.2. The exchangeable amount must be paid according to the contract level according to the membership level.
+28.3. Income tax, regardless of the amount of exchange applying 3% of residence tax of 0.3% will apply.
+28.4. Method of calculating the actual amount received exchange is subject to an agreement with the company based on a user-by-user basis. Displayed within the app, depending on the membership level agreements based on currency exchange and the amount will be applied depending on the rating differential.
+* Currency exchange rates may vary by individual.
+28.4.1 Snack accumulated in your account (Snacks) points can be exchanged after 30 days
+28.4.2Currency exchange is conducted on a regular settlement date of the company. Even users have previously applied for currency exchange in cash is actually received payment period is the month of the company is a regular payment . Therefore, the user must apply for a payment from a regular exchange in the previous seven days, you can get a deposit on a regular payment that month.
+28.4.3If you exchange your snacks in cash, you are obliged to report your total income tax regardless of the amount.
+28.4.4Currency full payment is scheduled, and holidays in case next business day payment is.
+28.5. The exchange is not possible if the account registration information of the identity authentication information and documents are not identical.
+
+29. Compensation for damages
+29.1. If the user is inflicting damages to the company in utilizing a user or a service if inflicting damages to the company because of violations by the obligations of this agreement the user must compensate for the damages against the company.
+29.2. If the user due to the illegal acts or violations of the Terms conducted in utilizing the services the company receives a claim for damages various objections, including claims or lawsuits from third parties other than the user concerned, the user concerned is at your own risk and cost the company must indemnify and art if the company did not indemnify the user may be liable for all damages caused to the company thereby.
+
+30. Disclaim
+30.1. The company exhibits, affairs, natural disaster, national emergency, if you can not provide technical defects and other force majeure four euros Service solving the difficulties, the responsibility is waived.
+30.2. The company shall be responsible for the suspension of due to reasons attributable to the user service / use disorders, the company if the telecommunication operators to damages caused to the user by not stopping or providing normal telecommunications services, the liability is waived.
+30.3. Maintenance of equipment for the company as well-known emergency or pre-implementation service, replacement, periodic inspection, if the service is stopped or in unavoidable circumstances, such as construction failure is responsible shall be exempt.
+30.4. The company user scores, expect to use the service responsible shall be exempt from such damages arising from use of or an eclectic about not responsible for things that did not obtain the rank and other services.
+30.5. The company users no liability for any person (including accounts) personal information, such as penalties and loss of information obtained by changing the
+30.6. The Company will not be held responsible for problems that occur due to various problems or network environment, there is no fault of the company resulting from the user's terminal environment.
+30.7. The company is not obligated to intervene in disputes mediating services between users or between users and any third party nor be liable for damages resulting therefrom.
+30.8. In the case of free services and content of the services provided by the company are excluded from restitution. but, It caused intentionally or by gross negligence of the Company , if the damages are excluded.
+30.9. The method in which the maximum extent permissible, Service or fraud of its affiliates, except for the malicious misrepresentation or gross negligence and in any case Service its affiliates, suppliers and distributors will not be liable for:
+(A) indirect, special, incidental, punitive or consequential damages or
+(B) legal theory and usefulness of data, loss of business or profits, regardless times four or twice company 's per- affiliates receive a warning about the possibility of such damages occur, or should, even if any remedy fails its purpose. Ltd. , its affiliates, suppliers and distributors that users in the past 12 months for the service, the company assumes no responsibility for any claims related to those services that exceed the greater the amount of the costs and $ 20 paid to. In some areas it might not apply to you because it does not allow the restrictions set forth in this paragraph.
+
+31. Copyright for posts
+31.1. User copyright of the posts published within the Service is protected by copyright law. Copyright and other intellectual property rights in the work created by the company are owned by the company.
+31.2. Users are allowed to post you post the company for the purpose of following both at home and abroad.
+* Replica of the user's posts in the service, modify, adapt, exhibit, transmit, distribute, publish, and create derivative works and editorial work
+* Services provided by the company (PR etc.) Replication of the user posts in, modify, adapt, exhibit, distribute, publish, and create derivative works and editorial work
+* Mobile (mobile operators - SKT, KT, LGT services, etc.), and Web services to your alliance partner's headquarters posts to provide commercial or non-commercial information of the user, in use. only, In this case the company does not provide any personal information without your consent.
+31.3. If you want to use the user's posts in addition to the license for commercial, telephone, fax, and get agreement to users, including via e-mail, the company may separate compensation.
+31.4. The company has posted a user or contents, in the service of registering the information for publication if it is determined that for each call Article 12 can be deleted without prior notice or to move or deny registration.
+31.5. The user If you created a new work by editing the contents of different other content providers for the content provider or affiliated with the company members are generated for the content, not the delivery, and delete permissions are granted gajina all the rights of other no, "one proprietor ' belongs to. Members are produced, it does not have the rights of non-delivery and delete ' the original copyright holder " is because you have not transferred the various rights, including the rights to the content provided by the member.
+31.6. Another member or you should not infringe other rights of third parties, including copyrights. When uploading data (Live cast Snacks (Snack Point) All content such as Flick) all liability for disputes relating to copyright is a publisher.
+
+32. Dispute Resolution
+Company If you are experiencing this user and would like to dispute amicably resolve the dispute without first formal legal process. The user Company contact poomyapp@gmail.com before filing a dispute against to agree informally to try to resolve the dispute.
+32.1 Email: Company strives to resolve disputes informally and through your email. If after you submit your email it does not resolve the dispute within 15 days of the user or we can walk on the formal procedures.
+32.2 Adjust the dispute trial institutions : the user and the company all the judicial process to resolve claims relating to these terms or the Services in accordance with the mandatory arbitration clause under the company's place of business must agree to proceed in representative premises of the Court. Users and companies are all those Venue agree and personal jurisdiction.
+32.3 Republic of Korea for non-residents must agree to the following mandatory arbitration clause. - Intervention by both agreed : the user and the company , except for exceptions under the arbitration agreement, and this agrees to resolve any disputes regarding the terms or the Services through final and binding arbitration.
+- Arbitration agreement rejected : You can say the refusal to accept the first arbitration agreement in writing to accept electronic (poomyapp@gmail.com) within 30 days after the.
+- Arbitration procedure : representatives of the business premises Arbitration Association will administer the arbitration in accordance with the complementary procedures for the arbitration rules and consumer-related disputes. Mediation is through your resident representative in the workplace interventions cows are in place to enforce this agreement or both.
+- Arbitration costs and gyeokryeogeum : All arbitration fees are paid according to the rules of the arbitration association representing operators of premises.
+- For the arbitration agreement exceptions : the user or company can file a dispute at a small court in the case of operators eligible premises. Which party or unauthorized or improper use of the Service or the trademark, trade secret, copyright, and not through the mediation process described above in order to stop the infringement of intellectual property rights such as patents primarily or going through the informal dispute resolution process injunctive proceedings you can be alone raised. If it is determined that the arbitration agreement does not apply to you or your claims, you agree to having the exclusive judges to resolve their claims in court representing the business premises.
+- Class actions can not : the user company and as an individual, and only to resolve the dispute, groups, or merge the complainant qualified representative lawsuit can not be filed the dispute. Merging of collective arbitration proceedings, class action, collective public interest litigation and other interventions geongwa is not allowed.
+
+33. Jurisdiction and Law
+33.1. Companies and users across the lawsuit, apply the laws of the Republic of Korea.
+33.2. Services in connection with the use of the company and among users proceedings concerning the dispute is the court in accordance with the procedures set forth in the relevant laws such as the Civil Procedure Act in any court of competent jurisdiction.
+
+34. Complete agreement
+This agreement is related to the user and the purpose of the agreement the company is established under the entire agreement between the priority over any other previous or the same period for the purposes of this Agreement or the Terms and Conditions and replace it. This Agreement does not confer any rights to third party beneficiaries.
+
+34. Waiver of rights, separation provision and transfer
+34.1. The company is does not it does not adequately implement certain provisions this waiver to implement its provisions in the future. If any provision is revealed to be unenforceable the remaining provisions of this Agreement shall take effect this will remain, will be replaced with enforceable conditions that reflect the best of our intentions.
+34.2. You may not transfer any of your rights this agreement, these attempts are deemed to be invalid. You may also transfer its affiliates, subsidiaries, or any successor rights to any commercial interest related to this service.
+
+35. Modification
+35.1. The Company may from time to time revise these Terms and Conditions, and always our web site and publish a revised policy on the most recent and effective immediately upon being posted. You agree to be bound by the revised Terms of Service, or access to the Service continues even after the effect of the revised Terms and Conditions has occurred.
+
+These Terms and Conditions enforced from January 31 2018
+
+
+Publication date : February 24 2018
+Effective Date : February 24 2018
+Revised Date : July  31 2018
+
+
